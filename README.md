@@ -1,2 +1,2 @@
-# small-projects-javascript
+# javascript-small-projects
 Simple projects using language javascript
